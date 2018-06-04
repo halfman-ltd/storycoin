@@ -72,4 +72,4 @@ The Author sells the article to the Buyer and the transaction is recorded on the
 StoryCoin is a design and an evolving work in progress, and meant to examine and question how we read and write on the internet. As such there are many as yet to be explored cases, both good and bad. For instance, what about questionable or objectionable content? Is there a way to build a consensus system within StoryCoin to deal with that? Many things yet to explore.
 
 # About
-StoryCoin has come about through the tireless design effort of Jim Kosem [halfman.com](www.halfman.com/) with compounding technical consultation, vitriol, probing questioning and tea provided by Mehmet Duran [@cfq](https://twitter.com/cfqm/)
+StoryCoin has come about through the tireless design effort of Jim Kosem [halfman.com](http://www.halfman.com/) with compounding technical consultation, vitriol, probing questioning and tea provided by Mehmet Duran [@cfq](https://twitter.com/cfqm/)
