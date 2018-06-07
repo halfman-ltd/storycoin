@@ -2,7 +2,7 @@
 
 ## Rewriting the economics of reading
 
-What is writing worth on the Internet? What about your time reading? The fact is that these days neither is worth anything. Words are now free, easy to copy and distribute as much as you want. StoryCoin (STC) is a design to examine the question of value and writing on the Internet.
+What is writing worth on the Internet? What about your time reading? The fact is that these days neither is worth anything. Words are now free, easy to copy and distribute as much as you want. StoryCoin (STC) is a design to examine the question of value and writing on the Internet, focusing on bloggers and authors of longform (1,200-2,000 words) content.
 
 StoryCoin is a way to put a better value on the words you write and time you spend reading them. It reintroduces scarcity, providing measurable and exchangeable value. It is a decentralised and interoperable protocol of writing and reading value, utilising an open ledger and blockchain based currency.
 
