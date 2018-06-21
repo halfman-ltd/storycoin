@@ -1,6 +1,6 @@
 # StoriedCoin (STC)
 
-## Rewriting the economics of reading
+![](https://user-images.githubusercontent.com/495102/41728956-f90a5f14-756f-11e8-9f57-97c0aea29fe3.png)
 
 What is writing worth on the Internet? What about your time reading? The fact is that these days neither is worth anything. Words are now free, easy to copy and distribute as much as you want. StoriedCoin (SDC) is a design to examine the question of value and writing on the Internet, focusing on bloggers and authors of longform (1,200-2,000 words) content.
 
