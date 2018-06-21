@@ -26,7 +26,7 @@ The Author publishes the 2000 word article. It is first pushed first to the Stor
 
 ### The Article
 
-![](https://user-images.githubusercontent.com/495102/40753217-f166c7cc-646a-11e8-9d54-058f632ebe83.png)
+![](https://user-images.githubusercontent.com/495102/41728552-f778e662-756e-11e8-8b81-02ca271dcd3c.png)
 
 The article on the website shows that it has been put on the StoriedCoin open ledger, its ID hash proving that which links to the ledger or a webpage showing that and how much StoriedCoin (SDC) it has earned thus far.
 
@@ -38,19 +38,19 @@ A reader goes to check a leaderboard of StoryCoin articles and can see which hav
 
 ### Reading
 
-![](https://user-images.githubusercontent.com/495102/40749657-9f664df2-645c-11e8-8694-c89ecfd7189a.png)
+![](https://user-images.githubusercontent.com/495102/41728494-db16f108-756e-11e8-9b61-7b405cb81163.png)
 
 The Reader reads the page, seeing how much StoriedCoin (STC) he’s paying to read the article while he reads it. In this case, he has only read about 600 words and so is only charged STC for 600 words. Readers are charged on a curve, meaning that it allows the reader to not be charged a lot at the beginning, and encourages the author to create good stories to the end. The reader would be charged by either the length or price of what they have read, whichever is less. They pay once for what they read. If they come back and read more they are charged only for what additionally they read.
 
 ### Value
 
-![](https://user-images.githubusercontent.com/495102/40749688-bcc45cfe-645c-11e8-95f8-07364f97be2e.png)
+![](https://user-images.githubusercontent.com/495102/41728621-1ff0455e-756f-11e8-8f7d-d2780a471247.png)
 
 The article has earned the author 100,000 SDC. A publisher sees how popular the article is and is interested in licensing it or buying the rights to the article outright. The total earned value of the article that the author has written is also on the open ledger. Likewise, the ledger can record any transactions of that article, allowing the author, who is recorded to own the article, to license or sell it.
 
 ### Buying and selling
 
-![](https://user-images.githubusercontent.com/495102/40749758-f754f144-645c-11e8-81db-124874e306cd.png)
+![](https://user-images.githubusercontent.com/495102/41728795-8ff06faa-756f-11e8-94b8-c2e68b4ba4cf.png)
 
 The Author sells the article to the Buyer and the transaction is recorded on the open ledger. It can be sold, traded or exchanged again and again and likewise recorded on the ledger.
 
