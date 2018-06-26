@@ -8,6 +8,8 @@ StoriedCoin is a way to put a better value on the words you write and time you s
 
 Authors would use StoriedCoin in two ways, the first of which is as a means of using an open ledger to verify their ownership of what they have written and proving it’s versioning. Secondly, StoriedCoin links the record what is on that ledger to a value that is exchangeable and trackable. When someone reads something published on StoriedCoin they have the spend StoriedCoin in order to do so. The reader also only pays for as much as they read. This value is then paid in exchange to the author.
 
+The most important aspect of StoriedCoin is that it provides a pay model for authors that doesn't require a paywall or advertising, along with an exchangeable store of value and attention.
+
 ## How it would work
 
 The initial design is that there would be 1,000,000 SDC released on a blockchain. There is no computational mining like there is with Bitcoin and other cryptocurrencies, there is publishing to produce coins. These would be earned by writers who publish on the system and spent by readers reading what is published on StoriedCoin. For a reader to have SDC, they would themselves need to publish, or buy or exchange them for other currencies, crypto or otherwise.
@@ -40,7 +42,7 @@ A reader goes to check a leaderboard of StoryCoin articles and can see which hav
 
 ![](https://user-images.githubusercontent.com/495102/41728494-db16f108-756e-11e8-9b61-7b405cb81163.png)
 
-The Reader reads the page, seeing how much StoriedCoin (STC) he’s paying to read the article while he reads it. In this case, he has only read about 600 words and so is only charged STC for 600 words. Readers are charged on a curve, meaning that it allows the reader to not be charged a lot at the beginning, and encourages the author to create good stories to the end. The reader would be charged by either the length or price of what they have read, whichever is less. They pay once for what they read. If they come back and read more they are charged only for what additionally they read.
+The Reader reads the page, seeing how much StoriedCoin (SDC) he’s paying to read the article while he reads it. In this case, he has only read about 600 words and so is only charged SDC for 600 words. Readers are charged on a curve, meaning that it allows the reader to not be charged a lot at the beginning, and encourages the author to create good stories to the end. The reader would be charged by either the length or price of what they have read, whichever is less. They pay once in SDC for what they read. If they come back and read more they are charged only for what additionally they read.
 
 ### Value
 
