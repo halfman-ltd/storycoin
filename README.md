@@ -12,7 +12,7 @@ The most important aspect of StoriedCoin is that it provides a pay model for aut
 
 ## How it would work
 
-The initial design is that there would be 1,000,000 SDC released on a blockchain. There is no computational mining like there is with Bitcoin and other cryptocurrencies, there is publishing to produce coins. These would be earned by writers who publish on the system and spent by readers reading what is published on StoriedCoin. For a reader to have SDC, they would themselves need to publish, or buy or exchange them for other currencies, crypto or otherwise.
+The initial design is that there would be 100,000,000 SDC released on a blockchain. There is no computational mining like there is with Bitcoin and other cryptocurrencies, there is publishing to produce coins. These would be earned by writers who publish on the system and spent by readers reading what is published on StoriedCoin. For a reader to have SDC, they would themselves need to publish, or buy or exchange them for other currencies, crypto or otherwise. The design is for a separate token as we believe reading and writing should live in their own attention based market.
 
 ### Writing
 
